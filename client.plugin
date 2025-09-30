@@ -1,0 +1,7 @@
+[Plugin]
+Loader=python3
+Module=client
+Name=Gedit-Hackatime
+Description=Gedit integration for HackaTime productivity tracking.
+Authors=Arun George Saji
+Version=1.0
